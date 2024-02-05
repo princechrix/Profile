@@ -85,19 +85,14 @@
   <a href="https://www.linkedin.com/in/om-patel-401068143/">
    <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:omunite21@gmail.com">
-    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <a href="mailto:princechrix.dev@gmail.com">
+    <img align="left"  width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://www.instagram.com/_21omp/">
-    <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://github.com/omunite215">
-    <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+   <a href="https://github.com/princechrix">
+    <img align="left"width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <a href="https://portfoliobyom.netlify.app/">
-    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
+    <img align="left"  width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
   </a>
-  <br>
+
   
-<p align="right" > Created with 🧡 by <a href="https://github.com/omunite215">Om Patel</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=omunite215&label=Profile%20views&color=0e75b6&style=flat" alt="omunite215" /> </p>
