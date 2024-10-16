@@ -4,7 +4,7 @@
 </p>
 
 <details open=""> 
-<summary>
+<summary> 
  📔 GitHub Stats:   
 </summary>
 <br>
