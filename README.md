@@ -3,7 +3,7 @@
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;UI+/+UX+Designer;Full+Stack+Web+Developer;Aspiring+Dev&center=true&width=500&height=50"></a>
 </p>
 
-<details open="">
+<details open=""> 
 <summary>
  📔 GitHub Stats:  
 </summary>
